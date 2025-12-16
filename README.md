@@ -1,11 +1,11 @@
 <h1 align="center">Hi 👋, I'm Rafi</h1>
 <h3 align="center">A passionate programmer from Bangladesh</h3>
 
-- 🔭 I’m currently working on **Warranty Management**
+- 🔭 I’m currently working on **CRECAP**
 
 - 🌱 I’m currently learning **Java,C++**
 
-- 💬 Ask me about **Java,Spring,C++**
+- 💬 Ask me about **Java,C++**
 
 - 📫 How to reach me **basirridwan7123@gmail.com**
 
